@@ -2,7 +2,7 @@
 .. |HKC| replace:: Hillary King Chapin
 
 |HKC|
-===================
+#####
 
 .. image:: headshot.jpg
   :width: 200
@@ -11,11 +11,11 @@
 `LinkedIn Profile <https://www.linkedin.com/in/hillary-k-chapin/>`_
 
 EXPERIENCE
-===================
+**********
 
 Bright Horizons Family Solutions, Inc., Watertown, MA
-*****************************************************
-=================
+
+
 Contracts Manager
 =================
 December 2014- present
@@ -28,9 +28,9 @@ December 2014- present
 * Manage contracts review process
 
 Textron, Inc., Providence, RI
-*****************************
 
-====================================================================
+
+
 Global Anti-Corruption Compliance (GACC) Legal Reviewer (Contractor) 
 ====================================================================
 
@@ -43,7 +43,7 @@ May 2011-November 2013
 #. Manage anti-corruption compliance review process
 
 EDUCATION
-===================
+*********
 .. list-table::
    :widths: 25 25 50
    :header-rows: 1
